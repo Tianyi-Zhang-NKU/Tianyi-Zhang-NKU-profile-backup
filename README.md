@@ -11,7 +11,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=680&lines=Building+useful+AI+systems;From+ideas+to+verified+products;Agent+%C2%B7+Vision+%C2%B7+Software+Engineering" alt="Typing introduction" />
 
-[![Nankai University](https://img.shields.io/badge/Nankai_University-Software_Engineering-7A0019?style=flat-square)](https://en.nankai.edu.cn/)
+![Nankai University](https://img.shields.io/badge/Nankai_University-Software_Engineering-7A0019?style=flat-square)
 [![Focus](https://img.shields.io/badge/Focus-AI_%C2%B7_Agent_%C2%B7_CV-238636?style=flat-square)](#-tech-stack--技术栈)
 [![GitHub](https://img.shields.io/badge/GitHub-Tianyi--Zhang--NKU-181717?style=flat-square&logo=github)](https://github.com/Tianyi-Zhang-NKU)
 [![Email](https://img.shields.io/badge/Email-2412227%40mail.nankai.edu.cn-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:2412227@mail.nankai.edu.cn)
